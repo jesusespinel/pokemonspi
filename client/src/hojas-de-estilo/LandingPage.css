@@ -1,0 +1,27 @@
+.landing-page{
+background-image: url("https://www.lared.cl/wp-content/uploads/2016/02/portada-pokemon.jpg");
+height: 670px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+width: 100%;
+}
+
+.button{
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: c;
+    display: inline-block;
+    margin: 20%;
+    padding: 15px 30px;
+    background-color: #94c1ff;
+    color:ivory;
+    letter-spacing: 4px;
+    font-size: 24px;
+    text-decoration: none;
+    overflow: hidden;
+    transition: 1s;
+    border: none;
+    border-radius: 2px; 
+ ;
+}
